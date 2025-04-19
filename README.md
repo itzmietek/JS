@@ -1,2 +1,2 @@
 # JS
-Js codes
+some js codes
